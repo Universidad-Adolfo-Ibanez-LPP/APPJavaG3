@@ -1,0 +1,12 @@
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/dominio/Libro.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/logic/SearchManager.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/constructores/LibroConstructores.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/opciones/OpcionesMenu.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/exceptions/LibroSinAutor.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/App2.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/exceptions/CSVNotFoundException.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/dominio/enums/Tittles.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/exceptions/NotMainPanelLoadedException.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/exceptions/DataNotLoadedException.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/file/FileManager.java
+/home/franalvarezi/Desktop/AppDef/src/main/java/com/uai/app/logic/DataManager.java
