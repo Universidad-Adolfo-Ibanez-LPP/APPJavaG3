@@ -1,0 +1,12 @@
+com/uai/app/dominio/enums/Tittles.class
+com/uai/app/exceptions/LibroSinAutor.class
+com/uai/app/exceptions/NotMainPanelLoadedException.class
+com/uai/app/logic/SearchManager.class
+com/uai/app/exceptions/DataNotLoadedException.class
+com/uai/app/App2.class
+com/uai/app/opciones/OpcionesMenu.class
+com/uai/app/dominio/Libro.class
+com/uai/app/constructores/LibroConstructores.class
+com/uai/app/file/FileManager.class
+com/uai/app/exceptions/CSVNotFoundException.class
+com/uai/app/logic/DataManager.class
